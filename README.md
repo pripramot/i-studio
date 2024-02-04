@@ -1,6 +1,7 @@
-# i-studio
+# i-studio อยู่ระหว่างดำเนินการ
+###  ว่าจะเลือกใครดี OPEN AI / Gemini Pro
 
-This repository is a special gift for my Thai friend. It was built using hashnode clone
+
 
 ## การติดตั้ง ไม่ต้องไปอ่านมันมาก ปวดหัว
 
@@ -51,7 +52,7 @@ http://localhost:5173
     <img src="/public/WhatsApp Image.png" alt="WhatsApp Image" />
   </a>
 
-### สำหรับ ยอดฟรีมือ
+### สำหรับ ยอดฝีมือ
 หากคุณติดตั้ง Scoop คุณสามารถติดตั้ง pnpm ได้โดยใช้คำสั่งต่อไปนี้:
 
 scoop install nodejs-lts pnpm
