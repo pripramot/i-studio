@@ -98,11 +98,7 @@ function BlogCard({
           {/* Add the Like, Comment, and Bookmark buttons here */}
 
           <div className="flex flex-row items-center justify-start gap-2">
-            <a
-              target="_blank"
-              rel="noopener"
-              href="https://mtify.hashnode.dev/a-beginners-guide-to-open-source"
-            >
+            <a target="_blank" rel="noopener" href="https://mtify.hashnode.dev">
               <button
                 className="group flex w-fit cursor-pointer items-center justify-center gap-1.5 rounded-full bg-transparent px-1 py-1.5 font-sans text-sm font-medium text-slate-600 hover:text-blue-600 dark:text-slate-300 dark:hover:text-blue-600"
                 aria-label="Like reaction"
@@ -121,11 +117,7 @@ function BlogCard({
                 110
               </button>
             </a>
-            <a
-              target="_blank"
-              rel="noopener"
-              href="https://mtify.hashnode.dev/a-beginners-guide-to-open-source"
-            >
+            <a target="_blank" rel="noopener" href="mtify.hashnode.dev">
               <button
                 className="group flex w-fit cursor-pointer items-center justify-center gap-1.5 rounded-full bg-transparent px-1 py-1.5 font-sans text-sm font-medium text-slate-600 hover:text-blue-600 dark:text-slate-300 dark:hover:text-blue-600"
                 aria-label="Comment"
@@ -187,9 +179,9 @@ export default function Blogs() {
     {
       profileUrl: "https://mtify.hashnode.dev/",
       profileImage:
-        "https://cdn.hashnode.com/res/hashnode/image/upload/v1672587156771/wGaH-wFZE.png?w=500&h=500&fit=crop&crop=faces&auto=compress,format&format=webp",
-      profileName: "Arindam Majumder",
-      postUrl: "https://mtify.hashnode.dev/a-beginners-guide-to-open-source",
+        "https://cdn.hashnode.com/res/hashnode/image/upload/v1706855201509/642f87e3-90b9-488d-841a-6cce93ec27f7.png",
+      profileName: "Pripramot w",
+      postUrl: "https://mtify.hashnode.dev/supabase",
       postTitle: "A Beginners Guide to Open Source",
       postDescription:
         "Open-source software has been around for decades, but it's only in recent years that it has gained mainstream acceptance. That's why we've put together this beginner's guide to open source to help you understand the basics and get started on your open-source journey.",
@@ -201,15 +193,14 @@ export default function Blogs() {
     {
       profileUrl: "https://mtify.hashnode.dev/",
       profileImage:
-        "https://cdn.hashnode.com/res/hashnode/image/upload/v1672587156771/wGaH-wFZE.png?w=500&h=500&fit=crop&crop=faces&auto=compress,format&format=webp",
-      profileName: "Arindam Majumder",
-      postUrl:
-        "https://mtify.hashnode.dev/getting-started-with-blogging-a-beginners-guide",
+        "https://cdn.hashnode.com/res/hashnode/image/upload/v1707033815777/3582fe06-4d41-4f39-9e4b-dac0f0abdfa6.png?w=1600&amp;h=840&amp;fit=crop&amp;crop=entropy&amp;auto=compress,format&amp;format=webp",
+      profileName: "Pripramot w",
+      postUrl: "https://mtify.hashnode.dev/supabase",
       postTitle: "Getting Started with Blogging: A Beginners Guide",
       postDescription:
         "If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.Through this blog, we'll explore the basics of blogging, including the Benefits of Blogging, How to Start, Tools to Boost your Blogs, Finding an audience, and much more.",
       postImage:
-        "https://cdn.hashnode.com/res/hashnode/image/upload/v1678203645622/0025ed38-bb32-4b03-a6ca-763c6f7a71b6.png",
+        "https://cdn.hashnode.com/res/hashnode/image/upload/v1707033815777/3582fe06-4d41-4f39-9e4b-dac0f0abdfa6.png?w=1600&amp;h=840&amp;fit=crop&amp;crop=entropy&amp;auto=compress,format&amp;format=webp",
       postDate: "2 days ago",
     },
     // Add more post objects as needed
