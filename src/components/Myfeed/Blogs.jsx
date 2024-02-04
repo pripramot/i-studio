@@ -101,7 +101,7 @@ function BlogCard({
             <a
               target="_blank"
               rel="noopener"
-              href="https://arindam1729.hashnode.dev/a-beginners-guide-to-open-source"
+              href="https://mtify.hashnode.dev/a-beginners-guide-to-open-source"
             >
               <button
                 className="group flex w-fit cursor-pointer items-center justify-center gap-1.5 rounded-full bg-transparent px-1 py-1.5 font-sans text-sm font-medium text-slate-600 hover:text-blue-600 dark:text-slate-300 dark:hover:text-blue-600"
@@ -124,7 +124,7 @@ function BlogCard({
             <a
               target="_blank"
               rel="noopener"
-              href="https://arindam1729.hashnode.dev/a-beginners-guide-to-open-source"
+              href="https://mtify.hashnode.dev/a-beginners-guide-to-open-source"
             >
               <button
                 className="group flex w-fit cursor-pointer items-center justify-center gap-1.5 rounded-full bg-transparent px-1 py-1.5 font-sans text-sm font-medium text-slate-600 hover:text-blue-600 dark:text-slate-300 dark:hover:text-blue-600"
@@ -185,12 +185,11 @@ export default function Blogs() {
   // Sample data for multiple blog posts
   const posts = [
     {
-      profileUrl: "https://arindam1729.hashnode.dev/",
+      profileUrl: "https://mtify.hashnode.dev/",
       profileImage:
         "https://cdn.hashnode.com/res/hashnode/image/upload/v1672587156771/wGaH-wFZE.png?w=500&h=500&fit=crop&crop=faces&auto=compress,format&format=webp",
       profileName: "Arindam Majumder",
-      postUrl:
-        "https://arindam1729.hashnode.dev/a-beginners-guide-to-open-source",
+      postUrl: "https://mtify.hashnode.dev/a-beginners-guide-to-open-source",
       postTitle: "A Beginners Guide to Open Source",
       postDescription:
         "Open-source software has been around for decades, but it's only in recent years that it has gained mainstream acceptance. That's why we've put together this beginner's guide to open source to help you understand the basics and get started on your open-source journey.",
@@ -200,12 +199,12 @@ export default function Blogs() {
     },
     // Add more post objects here with different data
     {
-      profileUrl: "https://arindam1729.hashnode.dev/",
+      profileUrl: "https://mtify.hashnode.dev/",
       profileImage:
         "https://cdn.hashnode.com/res/hashnode/image/upload/v1672587156771/wGaH-wFZE.png?w=500&h=500&fit=crop&crop=faces&auto=compress,format&format=webp",
       profileName: "Arindam Majumder",
       postUrl:
-        "https://arindam1729.hashnode.dev/getting-started-with-blogging-a-beginners-guide",
+        "https://mtify.hashnode.dev/getting-started-with-blogging-a-beginners-guide",
       postTitle: "Getting Started with Blogging: A Beginners Guide",
       postDescription:
         "If you're someone who has always wanted to start a blog but doesn't know where to begin, or you're just curious about the world of blogging, this is the perfect place for you.Through this blog, we'll explore the basics of blogging, including the Benefits of Blogging, How to Start, Tools to Boost your Blogs, Finding an audience, and much more.",
