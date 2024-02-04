@@ -21,19 +21,19 @@ pnpmเป็น pnpm เวอร์ชันธรรมดาซึ่งต�
 
 ### pnpm install
 
-```json
+```
 pnpm install
 ```
 
 ### vercel login
 
-```json
+```
 vercel login
 ```
 
 ### pnpm dev เเค่นั้นละครับ
 
-```json
+```
 pnpm run dev
 ```
 
