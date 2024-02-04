@@ -21,7 +21,7 @@ pnpmเป็น pnpm เวอร์ชันธรรมดาซึ่งต�
 ### pnpm install
 
 ```json
-pnpm install -g @pnpm
+pnpm install
 ```
 
 ### vercel login
