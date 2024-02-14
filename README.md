@@ -1,5 +1,14 @@
+<p align="center">
+
+  <a href="#">
+    <img src='https://raw.githubusercontent.com/pripramot/pripramot/4ed0d8a583437070134ceb43d2ef35da786cf23a/assets/svg/mintnoy.svg' height='50%' width='%50'>
+  </a>
+</p>
+
+
+
 # i-studio อยู่ระหว่างดำเนินการ
-###  ว่าจะเลือกใครดี OPEN AI / Gemini Pro
+ว่าจะเลือกใครดี OPEN AI / Gemini Pro
 
 
 
