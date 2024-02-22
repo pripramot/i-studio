@@ -1,22 +1,10 @@
 # <img src="/public/Link-ai-jiraphinya-copilot.svg" alt="ai-jiraphinya-copilot.svg" />
 
-<p align="center">
-
-  <picture>
-    <a href="#"
-      <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dcwjok3nu/image/upload/v1707833096/LogoBuddhism/Buddhism_light_wx0vb8.svg">
-    <img alt="Wiki.js" src="https://res.cloudinary.com/dcwjok3nu/image/upload/v1707833096/LogoBuddhism/Buddhism_dark_x8rwba.svg" width="256">
-  
-  </picture>  
-
-</p>
-
-
-<H2 align="center">README,Studio</H2>
-
-
-
-การติดตั้ง ไม่ต้องไปอ่านมันมาก ปวดหัว
+<p align="center"><img src="/public/Buddhism_dark_x8rwba.svg" alt="Buddhism_dark_x8rwba.svg"
+ 
+---
+ 
+### การติดตั้ง ไม่ต้องไปอ่านมันมาก ปวดหัว
 
 ### เคล็ดลับ ถ้าไม่เชื่อ ตามไปอ่าน
 
