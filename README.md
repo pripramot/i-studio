@@ -1,4 +1,4 @@
-# 🐤แปลงร่าง
+# <img src="/public/Link-ai-jiraphinya-copilot.svg" alt="ai-jiraphinya-copilot.svg" />
 
 <p align="center">
 
@@ -12,8 +12,7 @@
 </p>
 
 
-
-## i-studio ฉันตัดความสลับซับซ้อนออกเเล้ว เเต่ทำได้เพียง
+<H2 align="center">README,Studio</H2>
 
 
 
