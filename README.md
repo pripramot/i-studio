@@ -3,9 +3,9 @@
 <p align="center">
 
   <picture>
-  <a href="#"
-  <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dcwjok3nu/image/upload/v1707833096/LogoBuddhism/Buddhism_light_wx0vb8.svg">
-  <img alt="Wiki.js" src="https://res.cloudinary.com/dcwjok3nu/image/upload/v1707833096/LogoBuddhism/Buddhism_dark_x8rwba.svg" width="256">
+    <a href="#"
+      <source media="(prefers-color-scheme: dark)" srcset="https://res.cloudinary.com/dcwjok3nu/image/upload/v1707833096/LogoBuddhism/Buddhism_light_wx0vb8.svg">
+    <img alt="Wiki.js" src="https://res.cloudinary.com/dcwjok3nu/image/upload/v1707833096/LogoBuddhism/Buddhism_dark_x8rwba.svg" width="256">
   
   </picture>  
 
