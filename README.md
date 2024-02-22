@@ -63,12 +63,14 @@ pnpm run dev
 ```
 http://localhost:5173
 ```
-
 ```json
 แก้ไข ตามที่ต้องการ ใช้งานจริงได้ฟรี vercel
 ```
 ### ถ้าต้องการใช้ รักนะ localhost:3000
-**npm**
+```
+npm install
+```
+
 
 <p align="center">
   <a href="https://i-studio-steel.vercel.app">
